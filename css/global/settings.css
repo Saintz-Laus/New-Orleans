@@ -1,0 +1,29 @@
+:root {
+
+    /*Colors*/
+
+    --clr-white: #fff;
+    --clr-yellow_main: #FFED50;
+    --clr-yellow_after: #FFE600;
+    --clr-green_button: #78F563;
+    --clr-gray_main: #101010;
+    --clr-gray_before: #313131;
+    --clr-gray_after: #3F3E37;
+    --clr-gray_light: rgba(255, 255, 255, 0.14);
+    --clr-black: #000;
+
+    /*Linear Colors*/
+    
+    --linear_header: linear-gradient(272.15deg, #040404 20.44%, #313131 82.77%);
+    --linear_menu_sociais: linear-gradient(168.1deg, #252424 87.04%, #313131 107.43%);
+    --linear_slide: linear-gradient(113.92deg, rgba(16, 16, 16, 0.9) 17.92%, rgba(63, 62, 55, 0.9) 108.42%);
+    --linear_services: linear-gradient(113.92deg, rgba(16, 16, 16, 0.9) 17.92%, rgba(49, 49, 49, 0.9) 108.42%);
+    --linear_services_card: linear-gradient(146.01deg, rgba(33, 30, 31, 0.7) -26.79%, rgba(33, 30, 30, 0.7) 130.16%);
+    --linear_confira_card: linear-gradient(120.95deg, #181414 2.56%, rgba(24, 20, 20, 0) 104.75%, #181414 104.75%);
+    --linear_plane: linear-gradient(355deg, #313131 -64.36%, #111010 -9.07%);
+    --linear_imc_container: linear-gradient(355deg, rgba(49, 49, 49, 0.9) -64.36%, rgba(17, 16, 16, 0.9) -9.07%);
+    --linear_calc_container: linear-gradient(355deg, rgba(0, 0, 0, 0.4) -64.36%, rgba(0, 0, 0, 0.4) -9.07%);
+    --linear_about_container: linear-gradient(165.92deg, #313131 0.47%, #111010 99.82%);
+    --lienar_about_left: linear-gradient(122.8deg, rgba(27, 23, 23, 0.9) -33.48%, rgba(6, 5, 5, 0.9) 123.67%);
+
+}

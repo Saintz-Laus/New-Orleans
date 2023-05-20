@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Antonio';
+    src: url(../../assets/fonts/Antonio-Light.ttf);
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+i {
+    cursor: pointer;
+    color: #fff;
+}
+
+p {
+    font-family: 'Antonio';
+}
